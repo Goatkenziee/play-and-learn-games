@@ -1,0 +1,40 @@
+{
+  "updatedAt": "2026-07-03T17:16:18.321Z",
+  "framework": "Next.js",
+  "dbModels": [],
+  "apiRoutes": [],
+  "pages": [
+    "app/page.tsx"
+  ],
+  "components": [
+    "app/layout.tsx",
+    "components/games/AdventureAddition.tsx",
+    "components/games/CountTheObjects.tsx",
+    "components/games/GameWrapper.tsx",
+    "components/games/MultiplicationMountain.tsx",
+    "components/games/PhonicsFun.tsx",
+    "components/games/ShapeSorter.tsx",
+    "components/games/SightWordSafari.tsx",
+    "components/games/SpellingBee.tsx",
+    "components/games/SubtractionSplash.tsx",
+    "components/games/WordFamilies.tsx",
+    "components/ui/button.tsx",
+    "components/ui/card.tsx"
+  ],
+  "dependencies": [
+    "@types/node",
+    "@types/react",
+    "@types/react-dom",
+    "autoprefixer",
+    "clsx",
+    "lucide-react",
+    "next",
+    "postcss",
+    "react",
+    "react-dom",
+    "tailwind-merge",
+    "tailwindcss",
+    "typescript"
+  ],
+  "fileCount": 26
+}
